@@ -1,21 +1,68 @@
-# Akshat Network Status
 
-Auto-updated from monitoring infrastructure.
+# Akshat Network Infrastructure
 
-Last Updated: 2026-05-08 14:09 UTC
+<div align="center">
 
-| Service | Status | Ping |
-|---|---|---|
-| Akshat BackupService | 🟢 Operational | 0ms |
-| Akshat CloudServer | 🟢 Operational | 0ms |
-| Akshat DNS | 🟢 Operational | 9ms |
-| Akshat MediaServer | 🟢 Operational | 8ms |
-| Akshat MySQLDB | 🟢 Operational | 7ms |
-| Akshat NGINXServer | 🟢 Operational | 4ms |
-| Akshat PostgresService | 🟢 Operational | 4ms |
+![](https://img.shields.io/badge/STATUS-ALL_SYSTEMS_OPERATIONAL-brightgreen?style=for-the-badge)
 
-## Summary
+### Real-Time Homelab Infrastructure Monitoring
 
-- 🟢 Operational: 7
-- 🔴 Offline: 0
-- 🟠 Unknown: 0
+Self-hosted monitoring dashboard for infrastructure, services, networking, databases, and internal applications.
+
+---
+
+![Operational](https://img.shields.io/badge/Operational-7-brightgreen?style=flat-square)
+![Offline](https://img.shields.io/badge/Offline-0-red?style=flat-square)
+![Unknown](https://img.shields.io/badge/Unknown-0-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total_Monitors-7-blue?style=flat-square)
+
+</div>
+
+---
+
+## Current Infrastructure Status
+
+🟢 All Systems Operational
+
+_Last Updated: 2026-05-08 14:11 UTC_
+
+| Service | Status | Response Time | Badge |
+|---|---|---|---|
+| Akshat BackupService | 🟢 Operational | 0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Akshat CloudServer | 🟢 Operational | 0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Akshat DNS | 🟢 Operational | 7ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Akshat MediaServer | 🟢 Operational | 8ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Akshat MySQLDB | 🟢 Operational | 4ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Akshat NGINXServer | 🟢 Operational | 4ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Akshat PostgresService | 🟢 Operational | 2ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+
+---
+
+## Infrastructure Overview
+
+    Monitoring Stack
+    ├── Uptime Kuma
+    ├── GitHub Auto Sync
+    ├── Python Automation
+    ├── Cron Scheduler
+    └── Self-Hosted Infrastructure
+
+---
+
+## Live Status Page
+
+- https://status.akshatmehta.com
+
+---
+
+## Repository Automation
+
+This repository updates automatically every 5 minutes using a self-hosted infrastructure automation container.
+
+---
+
+<div align="center">
+
+Developed by Akshat Mehta
+
+</div>
