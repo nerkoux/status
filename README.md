@@ -24,7 +24,7 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 🟢 All Systems Operational
 
-_Last Updated: 2026-05-08 16:00 UTC_
+_Last Updated: 2026-05-08 16:05 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
@@ -33,8 +33,8 @@ _Last Updated: 2026-05-08 16:00 UTC_
 | DNS Service | 🟢 Operational | 7ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MediaServer | 🟢 Operational | 7ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MySQLDB | 🟢 Operational | 4ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| NGINXServer | 🟢 Operational | 3ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| PostgresService | 🟢 Operational | 2ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| NGINXServer | 🟢 Operational | 2ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| PostgresService | 🟢 Operational | 4ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 
 ---
 
