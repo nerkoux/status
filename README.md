@@ -24,17 +24,17 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 🟢 All Systems Operational
 
-_Last Updated: 2026-05-08 15:30 UTC_
+_Last Updated: 2026-05-08 15:35 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
 | BackupService | 🟢 Operational | 0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | CloudServer | 🟢 Operational | 0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service | 🟢 Operational | 8ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MediaServer | 🟢 Operational | 9ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service | 🟢 Operational | 21ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MediaServer | 🟢 Operational | 7ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MySQLDB | 🟢 Operational | 3ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| NGINXServer | 🟢 Operational | 2ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| PostgresService | 🟢 Operational | 3ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| NGINXServer | 🟢 Operational | 3ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| PostgresService | 🟢 Operational | 4ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 
 ---
 
