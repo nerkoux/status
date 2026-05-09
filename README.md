@@ -11,8 +11,8 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 ---
 
-![Operational](https://img.shields.io/badge/Operational-9-brightgreen?style=flat-square)
-![Offline](https://img.shields.io/badge/Offline-2-red?style=flat-square)
+![Operational](https://img.shields.io/badge/Operational-10-brightgreen?style=flat-square)
+![Offline](https://img.shields.io/badge/Offline-1-red?style=flat-square)
 ![Unknown](https://img.shields.io/badge/Unknown-0-orange?style=flat-square)
 ![Total](https://img.shields.io/badge/Total_Monitors-11-blue?style=flat-square)
 
@@ -24,19 +24,19 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 🔴 Partial Outage
 
-_Last Updated: 2026-05-09 16:20 UTC_
+_Last Updated: 2026-05-09 16:25 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
 | BackupService | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | CloudServer | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service | 🟢 Operational | 10.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MediaServer | 🟢 Operational | 29.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MySQLDB | 🟢 Operational | 5.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| NGINXServer | 🟢 Operational | 5.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| PostgresService | 🟢 Operational | 5.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| Apache Guacamole | 🔴 Offline | N/A | ![](https://img.shields.io/badge/status-offline-red) |
-| DNS Service 2 | 🟢 Operational | 22.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service | 🟢 Operational | 9.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MediaServer | 🟢 Operational | 7.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MySQLDB | 🟢 Operational | 9.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| NGINXServer | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| PostgresService | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Apache Guacamole | 🟢 Operational | 11.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service 2 | 🟢 Operational | 6.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | GrafanaService | 🟢 Operational | 7.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | LanMonitoring | 🔴 Offline | N/A | ![](https://img.shields.io/badge/status-offline-red) |
 
