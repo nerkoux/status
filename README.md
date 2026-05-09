@@ -24,7 +24,7 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 🟢 All Systems Operational
 
-_Last Updated: 2026-05-09 08:55 UTC_
+_Last Updated: 2026-05-09 09:00 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
@@ -33,11 +33,11 @@ _Last Updated: 2026-05-09 08:55 UTC_
 | DNS Service | 🟢 Operational | 9.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MediaServer | 🟢 Operational | 7.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MySQLDB | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| NGINXServer | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| NGINXServer | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | PostgresService | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| Apache Guacamole | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Apache Guacamole | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | DNS Service 2 | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| GrafanaService | 🟢 Operational | 7.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| GrafanaService | 🟢 Operational | 6.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 
 ---
 
