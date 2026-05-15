@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/STATUS-PARTIAL_OUTAGE-red?style=for-the-badge)
+![](https://img.shields.io/badge/STATUS-ALL_SYSTEMS_OPERATIONAL-brightgreen?style=for-the-badge)
 
 ### Real-Time Homelab Infrastructure Monitoring
 
@@ -11,8 +11,8 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 ---
 
-![Operational](https://img.shields.io/badge/Operational-13-brightgreen?style=flat-square)
-![Offline](https://img.shields.io/badge/Offline-1-red?style=flat-square)
+![Operational](https://img.shields.io/badge/Operational-14-brightgreen?style=flat-square)
+![Offline](https://img.shields.io/badge/Offline-0-red?style=flat-square)
 ![Unknown](https://img.shields.io/badge/Unknown-0-orange?style=flat-square)
 ![Total](https://img.shields.io/badge/Total_Monitors-14-blue?style=flat-square)
 
@@ -22,26 +22,26 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 ## Current Infrastructure Status
 
-🔴 Partial Outage
+🟢 All Systems Operational
 
-_Last Updated: 2026-05-15 11:05 UTC_
+_Last Updated: 2026-05-15 11:10 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
 | BackupService | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | CloudServer | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MediaServer | 🟢 Operational | 8.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service | 🟢 Operational | 8.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MySQLDB | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| NGINXServer | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| PostgresService | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| Apache Guacamole | 🟢 Operational | 20.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service 2 | 🟢 Operational | 9.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MediaServer | 🟢 Operational | 9.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service | 🟢 Operational | 10.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MySQLDB | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| NGINXServer | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| PostgresService | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Apache Guacamole | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service 2 | 🟢 Operational | 25.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | GrafanaService | 🟢 Operational | 6.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | LanMonitoring | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | GitServer | 🟢 Operational | 6.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| ROTI Bot Infrastructure | 🔴 Offline | 1177.0ms | ![](https://img.shields.io/badge/status-offline-red) |
-| CMS Service | 🟢 Operational | 1272.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| ROTI Bot Infrastructure | 🟢 Operational | 1145.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| CMS Service | 🟢 Operational | 1246.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 
 ---
 
