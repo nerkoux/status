@@ -24,24 +24,24 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 🟢 All Systems Operational
 
-_Last Updated: 2026-05-25 08:05 UTC_
+_Last Updated: 2026-05-25 08:10 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
 | BackupService | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | CloudServer | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MediaServer | 🟢 Operational | 7.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service | 🟢 Operational | 16.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MySQLDB | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service | 🟢 Operational | 9.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MySQLDB | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | NGINXServer | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | PostgresService | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | Apache Guacamole | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service 2 | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| GrafanaService | 🟢 Operational | 10.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service 2 | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| GrafanaService | 🟢 Operational | 15.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | LanMonitoring | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | GitServer | 🟢 Operational | 7.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| ROTI Bot Infrastructure | 🟢 Operational | 1135.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| CMS Service | 🟢 Operational | 11142.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| ROTI Bot Infrastructure | 🟢 Operational | 1212.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| CMS Service | 🟢 Operational | 1122.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 
 ---
 
