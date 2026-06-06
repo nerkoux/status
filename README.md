@@ -24,25 +24,25 @@ Self-hosted monitoring dashboard for infrastructure, services, networking, datab
 
 🟢 All Systems Operational
 
-_Last Updated: 2026-06-06 14:25 UTC_
+_Last Updated: 2026-06-06 14:30 UTC_
 
 | Service | Status | Response Time | Badge |
 |---|---|---|---|
 | BackupService | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | CloudServer | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | MediaServer | 🟢 Operational | 8.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| DNS Service | 🟢 Operational | 11.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| MySQLDB | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| NGINXServer | 🟢 Operational | 2.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| PostgresService | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| Apache Guacamole | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| DNS Service | 🟢 Operational | 12.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| MySQLDB | 🟢 Operational | 6.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| NGINXServer | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| PostgresService | 🟢 Operational | 3.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| Apache Guacamole | 🟢 Operational | 6.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | DNS Service 2 | 🟢 Operational | 4.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | GrafanaService | 🟢 Operational | 8.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 | LanMonitoring | 🟢 Operational | N/A | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| GitServer | 🟢 Operational | 5.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| ROTI Bot Infrastructure | 🟢 Operational | 1672.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| CMS Service | 🟢 Operational | 1704.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
-| ROTI Canary | 🟢 Operational | 678.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| GitServer | 🟢 Operational | 10.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| ROTI Bot Infrastructure | 🟢 Operational | 1006.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| CMS Service | 🟢 Operational | 3737.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
+| ROTI Canary | 🟢 Operational | 3741.0ms | ![](https://img.shields.io/badge/status-operational-brightgreen) |
 
 ---
 
